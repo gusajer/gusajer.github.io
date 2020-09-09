@@ -1,4 +1,4 @@
-## Welcome to [GitHub](http://github.com/gusajer) Pages
+## Welcome to my [GitHub](http://github.com/gusajer) Page
 
 this is my webside and it is cool.
 
